@@ -1,6 +1,5 @@
 ﻿import tj, pickle, time,os, sys,requests
 
-
 DAY=60*60*24
 FREQUENCY=2
 FILE="C:\\Users\\Public\\Documents\\Rates.data"
