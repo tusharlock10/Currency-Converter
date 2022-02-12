@@ -1,8 +1,8 @@
 ---
-name: Bug fix
-about: Raise a PR for bug fixing
+name: Bugs
+about: Raise an issue for bug fixing
 title: 'Title 1'
-labels: 'fix'
+labels: 'bug'
 assignees: 'tusharlock10'
 
 ---

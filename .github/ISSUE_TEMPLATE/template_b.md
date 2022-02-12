@@ -1,8 +1,8 @@
 ---
 name: New feature
-about: Add a new feature by raising PR
+about: Add a new feature by raising issue
 title: 'Title 2'
-labels: 'feature'
+labels: 'feature request'
 assignees: 'tusharlock10'
 
 ---
